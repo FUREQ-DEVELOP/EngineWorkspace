@@ -27,3 +27,10 @@ Engine-Team
 ## 開発状況
 
 開発基盤構築中。Submoduleは未登録です。
+
+## 利用方法
+
+- 作業は `main` からブランチを作成し、Pull Requestで提案してください。
+- タスクはGitHub Issues / Projectsで管理します。
+- 変更の責務: EngineWorkspace。担当Team: `Engine-Team`。
+- 依存関係や開発状況は [DevelopmentDocs](https://github.com/FUREQ-DEVELOP/DevelopmentDocs) を参照してください。
